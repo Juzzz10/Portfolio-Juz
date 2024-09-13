@@ -1,0 +1,42 @@
+#cover {
+    background-image: url(https://images.wallpapersden.com/image/download/dark-natural-landscape-hd-black-aesthetic_bmZmbGuUmZqaraWkpJRnamtorWZpaGs.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#navs {
+    background-color: black;
+}
+
+
+.navbar-brand {
+    color: white;
+    
+}
+.navbar .nav-link {
+    color: white; 
+}
+
+#header1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#tools{
+    background-image: url(https://images.wallpapersden.com/image/download/dark-natural-landscape-hd-black-aesthetic_bmZmbGuUmZqaraWkpJRnamtorWZpaGs.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#footer{
+    font-size: 40px;
+}
+
+.pic {
+    background-size: 20px;
+    size: 20px;
+}
+
+
